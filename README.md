@@ -1,6 +1,6 @@
 # Microbit-nezha-Avoidance-Car-1
 Esta proyecto fue diseñado para que Obstacle Avoidance Car 1 de nezha inventors kit pudiera
-ser un coche a control remoto
+ser un coche a control remoto al que nombramos Tulabot
 
 <img width="800" height="532" alt="image" src="https://github.com/user-attachments/assets/8942f3e4-bc95-47c0-afa5-48eba09e4c6c" />
 
